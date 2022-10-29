@@ -1,8 +1,8 @@
 ## Sou o Renato Maia
 <div align="center">
-  <a href="https://github.com/renatoMaiaMelo">
-  <img height="153em" src="https://github-readme-stats.vercel.app/api?username=renatoMaiaMelo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="153em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoMaiaMelo&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nato-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -30,8 +30,8 @@
   <a href = "mailto:renato171179@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renatomaiamelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <!--
+  
   ![Snake animation](https://github.com/renatoMaiaMelo/renatoMaiaMelo/blob/output/github-contribution-grid-snake.svg)
--->
+
  
 </div>
